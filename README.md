@@ -18,7 +18,7 @@ func main() {
 		"xxx@xxx.com",					//user
 		"xxxxxxx",						//password
 		"smtp.xxxx.com:25",				//host:port
-		"sunzhigang@maiyamall.com",		//receiver email address
+		"sunzhigang@maiyamall.com",		//receiver email address(more than one, divider by ';')
 		"subject",						//subject
 		"body",							//body
 		false,							//ishtml
